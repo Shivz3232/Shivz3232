@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" alt="dgshivu.xyz" width="22px" src="./static/pic.png" />][website]
+[<img align="left" alt="dgshivu.xyz" width="22px" src="https://i.ibb.co/8BJFswX/images-removebg-preview.png" />][website]
 
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
