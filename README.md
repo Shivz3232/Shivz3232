@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Shivu D G 👋
 
-## I'm a CS Softmroe, Developer, and a Pianist!
+## I'm a CS Junior, Developer, and a Pianist!
 
 -   🔭 I’m currently working on a [VS Code Course][website]!
 -   🌱 I’m currently learning everything 🤣
