@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" alt="dgshivu.xyz" width="18px" src="https://i.ibb.co/8BJFswX/images-removebg-preview.png" />][website]
+[<img align="left" alt="dgshivu.xyz" width="14px" src="https://i.ibb.co/8BJFswX/images-removebg-preview.png" />][website]
 [<img align="left" alt="Shivu D G | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shivu D G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shivu D G | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
