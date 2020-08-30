@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Spotify](https://spotify-github.shivz3232.vercel.app/api/spotify)](https://open.spotify.com/user/31umeyvsmk4abpk7elhe4sx6t2d4)
+[![Spotify](https://spotify-github-akyyvtmf1.vercel.app/api/spotify)](https://open.spotify.com/user/31umeyvsmk4abpk7elhe4sx6t2d4)
 
 <br />
 
