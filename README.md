@@ -66,7 +66,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img align="left" alt="Shivz's Github Stats" src="https://github-readme-stats.shivz3232.vercel.app/api?username=Shivz3232&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  <img align="left" alt="Shivz's Github Stats" src="https://github-readme-stats.shivz3232.vercel.app/api?username=Shivz3232&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://dgshivu.xyz
 [twitter]: https://twitter.com/shivu_dg
