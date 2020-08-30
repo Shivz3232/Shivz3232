@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Shivu D G | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shivu D G | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+###<br />
 
-[<img src="https://spotify-github-akyyvtmf1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width=350 />](https://open.spotify.com/user/31umeyvsmk4abpk7elhe4sx6t2d4)
+###[<img src="https://spotify-github-akyyvtmf1.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width=350 />](https://open.spotify.com/user/31umeyvsmk4abpk7elhe4sx6t2d4)
 
 <br />
 
