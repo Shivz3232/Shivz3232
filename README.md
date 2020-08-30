@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 
 <br />
 
+[![Spotify](https://spotify-github.shivz3232.vercel.app/api/spotify)](https://open.spotify.com/user/31umeyvsmk4abpk7elhe4sx6t2d4)
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][webdevplaylist]
