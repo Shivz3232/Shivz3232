@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a CS Junior, Developer, and a Pianist!
 
--   🔭 I’m currently working on my typing [speed](https://www.keybr.com/profile/12fip50), 57 wpm ATM!
+-   🔭 I’m currently working on my typing [speed](https://www.keybr.com/profile/12fip50), 80 wpm ATM!
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other developers
 -   🥅 2020 Goals: Contribute more to Open Source projects
