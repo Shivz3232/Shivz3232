@@ -2,7 +2,7 @@
 
 I'm a software engineer with 2+ years of industry experience, currently pursuing a Master's in Computer Science at Northeastern University in Boston 🍩.
 
-My passion lies at the intersection of systems and scalable backend engineering. Professionally, I've built and scaled distributed provisioning pipelines, redesigned financial integrations, and optimized cloud-native microservices at companies like BetterCloud and G2 — work that spanned everything from Okta SCIM pipelines to PostgreSQL query optimization across high-traffic production systems.
+My passion lies at the intersection of systems and scalable backend engineering. Professionally, I've built and scaled distributed provisioning pipelines, redesigned financial integrations, and optimized cloud-native microservices at companies like BetterCloud and G2 — work that spanned everything from Okta SCIM pipelines to PostgreSQL query optimization across high-traffic production systems to improving test coverage of critical branches.
 
 On the academic side, my curiosity has taken me deeper into how systems work from the ground up — from RISC-V kernel internals and OS scheduling to the theory behind geographically distributed systems. I've implemented the Chandy-Lamport distributed snapshot algorithm in C and an MLFQ process scheduler for a RISC-V kernel, which gave me a strong appreciation for the low-level mechanics that underpin the large-scale systems I work on every day.
 
@@ -38,16 +38,22 @@ Though my roots are in backend development, my experience spans frontend, cloud 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🖼️ Frameworks
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## Misc
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 I'm currently getting my hands dirty switching to vim, if you have any plugin recommendations or just want to say hi, shoot me a text @:
 - 📫 [Email (Academic)](mailto:donmardigorva.s@northeastern.edu)
