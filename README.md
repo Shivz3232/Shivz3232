@@ -28,6 +28,9 @@ Though my roots are in backend development, my experience spans frontend, cloud 
 ## Frontend
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # ☁️ Cloud
@@ -46,8 +49,8 @@ Though my roots are in backend development, my experience spans frontend, cloud 
 ![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-I'm currently getting my hands dirty switching to vim, if you have any plugin recommendations or just want to say hi, feel free to reach me @:
-- 📞 [Mobile](tel:+16176068602)
+I'm currently getting my hands dirty switching to vim, if you have any plugin recommendations or just want to say hi, shoot me a text @:
 - 📫 [Email (Academic)](mailto:donmardigorva.s@northeastern.edu)
 - 📫 [Email (Personal)](mailto:dgshivu3232@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dgshivu)
+- 🌐 [Portfolio](#) (Coming Soon)
