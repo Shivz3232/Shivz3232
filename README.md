@@ -1,21 +1,23 @@
 # 👋 Hi there, this is Shivu!
 
-I'm a software engineer with 2+ years of industry experience, currently pursuing a Master's in Computer Science at Northeastern University in Boston 🍩.
+I'm a software engineer with 3+ years of industry experience, currently pursuing a Master's in Computer Science at Northeastern University in Boston 🍩.
 
 My passion lies at the intersection of systems and scalable backend engineering. Professionally, I've built and scaled distributed provisioning pipelines, redesigned financial integrations, and optimized cloud-native microservices at companies like BetterCloud and G2 — work that spanned everything from Okta SCIM pipelines to PostgreSQL query optimization across high-traffic production systems to improving test coverage of critical branches.
 
-On the academic side, my curiosity has taken me deeper into how systems work from the ground up — from RISC-V kernel internals and OS scheduling to the theory behind geographically distributed systems. I've implemented the Chandy-Lamport distributed snapshot algorithm in C and an MLFQ process scheduler for a RISC-V kernel, which gave me a strong appreciation for the low-level mechanics that underpin the large-scale systems I work on every day.
+On the academic side, my curiosity has taken me deeper into how systems work from the ground up — from RISC-V kernel internals and OS scheduling to the theory behind geographically distributed systems and parallel computing on GPU using CUDA. I've implemented the Chandy-Lamport distributed snapshot algorithm in C and an MLFQ process scheduler for a RISC-V kernel, which gave me a strong appreciation for the low-level mechanics that underpin the large-scale systems I work on every day.
 
 Though my roots are in backend development, my experience spans frontend, cloud infrastructure, and automation — I'm comfortable across the full stack, from React and TypeScript on the client side to Kubernetes, AWS, and CI/CD pipelines in production.
 
 ## </> Programming Languages Strong Suit
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## 🛢 Database Technologies
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,6 +59,5 @@ Though my roots are in backend development, my experience spans frontend, cloud 
 
 I'm currently getting my hands dirty switching to vim, if you have any plugin recommendations or just want to say hi, shoot me a text @:
 - 📫 [Email (Academic)](mailto:donmardigorva.s@northeastern.edu)
-- 📫 [Email (Personal)](mailto:dgshivu3232@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dgshivu)
-- 🌐 [Portfolio](#) (Coming Soon)
+- 🌐 [Portfolio](https://www.shivudg.com)
